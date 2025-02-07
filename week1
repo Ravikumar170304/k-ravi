@@ -1,0 +1,20 @@
+<html>
+<head>
+<title> forms html</title>
+</head>
+<body>
+<form action>
+<h1 allign="center"> REGISTRATION FORM </h1>
+First name:
+<input type="text" placeholder="first name" id="Fname"> <br>
+Last name:
+<input type="text" placeholder="Last name" id="Lname"> <br>
+email:
+<input type="email" placeholder="email" id="email"><br>
+password:
+<input type="password" placeholder="password" id="password">
+</form action>
+<input type="button" value="submit" allign="center">
+</body>
+</html>
+
