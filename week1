@@ -4,7 +4,7 @@
 </head>
 <body>
 <form action>
-<h1 allign="center"> REGISTRATION FORM </h1>
+<h1 allign="center">   REGISTRATION FORM </h1>
 First name:
 <input type="text" placeholder="first name" id="Fname"> <br>
 Last name:
